@@ -25,7 +25,7 @@
 
 ```java
 
-public void addClick(View v)
+public void Click(View v) // 더하기 메소드
     {   
         import android.view.View;
         import android.widget.EditText;
@@ -43,7 +43,7 @@ public void addClick(View v)
     }
     
     
-    //XML CODE
+    //XML CODE 나눗셈 버튼
     
         <Button
         android:id="@+id/div"
