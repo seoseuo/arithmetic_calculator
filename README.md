@@ -1,6 +1,6 @@
 # 📱arithmetic_calculator 0.1📱 
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
-* 안드로이드 스튜디오를 이용한 사칙연산 계산기
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
+* 안드로이드 스튜디오를 이용한 사칙연산 계산기.  
 * 최초로 안드로이드 스튜디오를 통한 APP 구현.
   
 # 
